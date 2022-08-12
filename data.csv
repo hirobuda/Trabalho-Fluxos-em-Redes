@@ -1,0 +1,16 @@
+,São Carlos,Ribeirão Preto,Bauru,Marília,Presidente Prudente,Assis,Jaú,Araraquara,Bataguassu,Campo Grande,Dourados,Maracaju,Piracicaba,Franca,Sorocaba
+São Carlos,0,102,,269,,,,,,802,,,103,,
+Ribeirão Preto,102,0,,270,,,161,,,,,,,89,
+Bauru,,,0,,,,,,397,,,734,,,
+Marília,269,270,,0,,,,233,,,626,,,358,
+Presidente Prudente,,,,,0,,354,409,,430,,,,,471
+Assis,,,,,,0,,,,553,,,374,,
+Jaú,,161,,,354,,0,,469,,308,805,,,
+Araraquara,,,,233,409,,,0,,,856,880,,176,
+Bataguassu,,,397,,,,469,,0,,,,610,,588
+Campo Grande,802,,,,430,553,,,,0,,,,,900
+Dourados,,,,626,,,,856,308,,0,,,979,
+Maracaju,,,734,,,,805,880,,,,0,945,,
+Piracicaba,103,,,,,374,,,610,,,945,0,,110
+Franca,,89,,358,,,,,,,979,,,0,
+Sorocaba,,,,,471,,,176,588,900,,,110,,0
